@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'popins', sans-serif;
+}
+
+.container{
+  width: 50%;
+  background-color: bisque;
+  margin: 25px auto;
+  padding: 1.5em;
+}
+
+img{
+  width: 200px;
+  height: 220px;
+}
