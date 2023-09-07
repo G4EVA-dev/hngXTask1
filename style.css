@@ -5,11 +5,16 @@
   font-family: 'popins', sans-serif;
 }
 
+h1{
+  font-size: 2.5rem;
+}
+
 .container{
   width: 50%;
   background-color: bisque;
   margin: 25px auto;
   padding: 1.5em;
+  text-align: center;
 }
 
 img{
