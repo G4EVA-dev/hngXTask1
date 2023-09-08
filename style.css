@@ -20,4 +20,14 @@ h1{
 img{
   width: 200px;
   height: 220px;
+  border-radius: 50%;
+}
+
+a{
+  font-size: 2rem;
+}
+
+button{
+  width: 100px;
+  padding: 15px;
 }
